@@ -1,6 +1,6 @@
 # pwc-pathfinder
 
-### Asessment:
+### Assessment:
 
 ```
 Your task is to create a simple Spring Boot service, that is able to calculate any possible land
