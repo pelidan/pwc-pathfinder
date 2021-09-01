@@ -27,7 +27,7 @@ Expected deliveries:
 ```
 
 ### Instructions how to build and run the application:
-You must have a JAVA_HOME environment set pointing to an existing Java installation directory
+You must have a JAVA_HOME environment variable set pointing to an existing Java installation directory
 
 Linux/OS X:
 ```
